@@ -1,0 +1,9 @@
+Java programming is powerful
+Binary search is efficient
+Learning data structures and algorithms
+Searching words inside a text file example
+Welcome to Java programming
+Binary search works only on sorted data
+Quick sort helps arrange words alphabetically
+This is a sample large text file for testing
+Search example word inside this file
